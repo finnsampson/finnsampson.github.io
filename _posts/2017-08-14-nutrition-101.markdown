@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "Nutrition 101"
+date: 2017-08-14T14:10:18Z
+categories: school nutrition
+---
+Measuring out "one serving" of my "unhealthy" food.
+<a href="{{ site.url }}/assets/images/img_1157.jpg">![nutrition labels]({{ site.url }}/assets/images/img_1157.jpg)</a>
+<a href="{{ site.url }}/assets/images/img_1166.jpg">![exactly 40 grams]({{ site.url }}/assets/images/img_1166.jpg)</a>
