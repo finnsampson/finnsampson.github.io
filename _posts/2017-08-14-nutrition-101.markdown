@@ -7,6 +7,6 @@ categories: school nutrition macronutrients
 <a href="{{ site.url }}/assets/images/macronutrients.png">![nutrition labels]({{ site.url }}/assets/images/macronutrients.png)</a>
 
 
-Measuring out "one serving" of my "unhealthy" food.
+Measuring out one serving of my "unhealthy" food.
 <a href="{{ site.url }}/assets/images/img_1157.jpg">![nutrition labels]({{ site.url }}/assets/images/img_1157.jpg)</a>
 <a href="{{ site.url }}/assets/images/img_1166.jpg">![exactly 40 grams]({{ site.url }}/assets/images/img_1166.jpg)</a>
