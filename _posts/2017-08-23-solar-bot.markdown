@@ -6,7 +6,7 @@ categories: school robotics engineering
 ---
 A second robot!
 <a href="{{ site.url }}/assets/images/IMG_0707.JPG">![assembling]({{ site.url }}/assets/images/IMG_0707.JPG)</a>
-<video width="480" height="360" controls>
+<video autoplay preload="auto" width="480" height="360" controls>
   <source src="/assets/videos/IMG_0709.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
