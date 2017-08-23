@@ -1,9 +1,12 @@
 ---
 layout: default
-title:  "Youtube setup"
+title:  "solar bot"
 date: 2017-08-22T10:10:18Z
-categories: school youtube entertainment
+categories: school robotics engineering
 ---
-A quick setup for my Youtube.
-<a href="{{ site.url }}/assets/images/IMG_1228.JPG">![side view]({{ site.url }}/assets/images/IMG_1228.JPG)</a>
-<a href="{{ site.url }}/assets/images/IMG_1230.JPG">![top view]({{ site.url }}/assets/images/IMG_1230.JPG)</a>
+A second robot!
+<a href="{{ site.url }}/assets/images/IMG_0707.JPG">![assembling]({{ site.url }}/assets/images/IMG_0707.JPG)</a>
+<video width="480" height="360" controls>
+  <source src="/assets/videos/IMG_0709.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
