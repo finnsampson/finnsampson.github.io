@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "Youtube setup"
+date: 2017-08-22T10:10:18Z
+categories: school youtube entertainment
+---
+A quick setup for my Youtube.
+<a href="{{ site.url }}/assets/images/IMG_1228.JPG">![side view]({{ site.url }}/assets/images/IMG_1228.JPG)</a>
+<a href="{{ site.url }}/assets/images/IMG_1230.JPG">![top view]({{ site.url }}/assets/images/IMG_1230.JPG)</a>
